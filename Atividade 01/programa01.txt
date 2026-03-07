@@ -1,7 +1,8 @@
 ALGORITMO
 
     DEFINA
-        nome, matricula, curso, idade, email literal
+        nome, matricula, curso, email literal
+        idade inteiro
 
     ESCREVA ("Digite o nome do aluno: ")
     LEIA nome
