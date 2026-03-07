@@ -1,0 +1,15 @@
+ALGORITMO
+
+    DEFINA
+        raio, pi, area real
+
+    pi <- 3.14
+
+    ESCREVA("Digite o valor do raio do circulo: ")
+    LEIA raio
+
+    area <- pi*raio*raio
+
+    ESCREVA("A area do seu circulo é: ", area)
+
+FIM_ALGORITMO

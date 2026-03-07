@@ -1,0 +1,17 @@
+ALGORITMO
+
+    DEFINA
+        salario, pct_aumento, aumento, sal_aumentado real
+
+    ESCREVA("Digite o salario: ")
+    LEIA salario
+    ESCREVA("Digite o aumento em porcentagem: ")
+    LEIA pct_aumento
+
+    aumento <- (salario*pct_aumento)/100
+    sal_aumentado <- salario + aumento
+
+    ESCREVA("O aumento sera: ", aumento)
+    ESCREVA("E o salario com aumento sera: ", sal_aumentado)
+
+FIM_ALGORITMO
