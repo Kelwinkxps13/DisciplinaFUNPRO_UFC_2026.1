@@ -1,0 +1,23 @@
+ALGORITMO
+
+    DEFINA
+        nome, matricula, curso, idade, email literal
+
+    ESCREVA ("Digite o nome do aluno: ")
+    LEIA nome
+    ESCREVA ("Digite a matricula do aluno: ")
+    LEIA matricula
+    ESCREVA ("Escreva o curso do aluno: ")
+    LEIA curso
+    ESCREVA ("Digite a idade do aluno: ")
+    LEIA idade
+    ESCREVA ("Escreva o email do aluno: ")
+    LEIA email
+
+    ESCREVA ("O nome do aluno é: ", nome)
+    ESCREVA ("A matricula do aluno é: ", matricula)
+    ESCREVA ("O curso do aluno é: ", curso)
+    ESCREVA ("A idade do aluno é: ", idade)
+    ESCREVA ("O email do aluno é: ", email)
+
+FIM_ALGORITMO
