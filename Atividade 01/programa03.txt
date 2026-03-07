@@ -1,0 +1,19 @@
+ALGORITMO
+
+    DEFINA
+        nota1,nota2,media,peso1,peso2 real
+
+    ESCREVA("Digite sua nota1: ")
+    LEIA nota1
+    ESCREVA("Digite seu peso da nota1: ")
+    LEIA peso1
+    ESCREVA("Digite sua nota2: ")
+    LEIA nota2
+    ESCREVA("Digite sua peso da nota2: ")
+    LEIA peso2
+
+    media <- (peso1*nota1 + peso2*nota2)/(peso1+peso2)
+
+    ESCREVA("Sua média ponderada é: ", media)
+
+FIM_ALGORITMO
