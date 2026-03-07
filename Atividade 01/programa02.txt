@@ -1,0 +1,17 @@
+ALGORITMO
+
+DEFINA
+    nota1,nota2,nota3,media real
+
+ESCREVA("Digite a nota1: )
+LEIA nota1
+ESCREVA("Digite a nota2: ")
+LEIA nota2
+ESCREVA("Digite a nota3: ")
+LEIA nota3
+
+media <- (nota1+nota2+nota3)/3
+
+ESCREVA ("A média é: ", media)
+
+FIM_ALGORITMO
